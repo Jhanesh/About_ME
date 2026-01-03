@@ -29,7 +29,7 @@ You Can Know More about me in this readme file
 🎓 Final-year **Computer Science Engineering** Student at **Saveetha School of Engineering** (CGPA: 8.7)  
 ✅ Certified in **Java Full Stack (Wipro)**, **Cisco Data Science**, and **Oracle Generative AI**  
 💼 Aspiring **Backend Developer / Full Stack Developer**  
-📍 Open to **Remote & Hybrid Opportunities**  
+📍 Open to **Remote & Full Time Opportunities**  
 
 ---
 
